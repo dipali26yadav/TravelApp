@@ -1,6 +1,6 @@
 # TravelApp - Modern Travel Website
 
-A beautiful, modern travel website built with React, Tailwind CSS, and Framer Motion. Features a clean UI, smooth animations, and fully responsive design.
+A beautiful travel website built with React, Tailwind CSS, and Framer Motion. Features a clean UI, smooth animations, and fully responsive design.
 
 ## Features
 
@@ -29,11 +29,13 @@ A beautiful, modern travel website built with React, Tailwind CSS, and Framer Mo
 ### Installation
 
 1. Install dependencies:
+
 ```bash
 npm install
 ```
 
 2. Start the development server:
+
 ```bash
 npm run dev
 ```
@@ -129,4 +131,3 @@ This project is open source and available for personal and commercial use.
 ## Contributing
 
 Feel free to submit issues and enhancement requests!
-
